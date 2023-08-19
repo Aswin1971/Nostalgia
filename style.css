@@ -1,0 +1,32 @@
+title{
+    color: green;
+    font-style: italic;
+}
+h1{
+    font-style: oblique;
+    color: green;
+    margin-left: 200px;
+}
+body{
+    background-color: yellow
+}
+img{
+    height: 300px;
+    padding-left: 60px;
+}
+#first{
+    border: 10px solid black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: aqua;
+}
+#second{
+    border : 10px solid red;
+    background-color: skyblue;
+}
+p{
+    font-size:xx-large;
+    border: 5px solid blue;
+    border-radius: 12px;
+    padding: 15px;
+}
